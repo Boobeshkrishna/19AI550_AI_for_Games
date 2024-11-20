@@ -1,7 +1,7 @@
 # Ex.No: 10 Implementation of Negamax algorithm 
 
 #### DATE:
-#### REGISTER NUMBER : 212222240043
+#### REGISTER NUMBER : 212222233001
 ### AIM:
 
 Write a negamax algorithm to find the optimal value of Player from the graph.
